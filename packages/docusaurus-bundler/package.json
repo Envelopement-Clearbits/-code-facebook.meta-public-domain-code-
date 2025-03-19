@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.25.9",
+    "@babel/core": "^7.26.10",
     "@docusaurus/babel": "3.7.0",
     "@docusaurus/cssnano-preset": "3.7.0",
     "@docusaurus/logger": "3.7.0",
