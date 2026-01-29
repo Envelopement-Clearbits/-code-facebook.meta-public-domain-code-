@@ -27,7 +27,7 @@
     "@docusaurus/core": "3.7.0",
     "@docusaurus/logger": "3.7.0",
     "@docusaurus/utils": "3.7.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "engines": {
     "node": ">=18.0"
